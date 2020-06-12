@@ -4,6 +4,7 @@ title: 블로그 제작후 첫 포스트
 subtitle: 교수님께 감사를 바치며 
 cover-img: /assets/img/path.jpg
 tags: [daily]
+comments: true
 ---
 
 #안녕하세요?
