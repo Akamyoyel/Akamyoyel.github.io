@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-## My name is _### Akamyoyel._ 
+### My name is Akamyoyel.
 
 What else do you need?
 
